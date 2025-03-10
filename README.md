@@ -1,6 +1,6 @@
 # TEDHT
 
-This is the website to introduce our project:[Tactile Driven Reinforcement Learning Information Reconstruction for
+This is a website to introduce our project:[Tactile Driven Reinforcement Learning Information Reconstruction for
 Enhanced Dexterous Hand Telemanipulation](TEDHT.github.io)
 
 
